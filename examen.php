@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>EXAMEN</title>
+    <link rel="stylesheet" href="estilo.css">
   </head>
 
   <body>
