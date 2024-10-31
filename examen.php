@@ -9,6 +9,7 @@
     <h2>31/10/2024</h2>
     <h3>Repositiorio</h3>
   <<?php echo 'Maria, 31/10/2024'?>
+  <img src="technology" alt="imagen">
   </body>
 </html>   
 
